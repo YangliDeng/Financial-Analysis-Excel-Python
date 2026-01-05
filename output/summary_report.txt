@@ -1,0 +1,20 @@
+Financial Analysis Summary
+==========================
+
+Analysis Date: 2026-01-05
+
+Companies Analyzed:
+- CompanyA
+- CompanyB
+
+Most Profitable Company:
+CompanyA
+
+Most Concerning Company:
+CompanyB
+
+Metrics Used:
+- Revenue vs Year
+- Net Profit vs Year
+- Average Profit Margin
+- Profit Volatility
